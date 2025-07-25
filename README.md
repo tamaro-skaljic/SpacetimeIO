@@ -1,6 +1,6 @@
 # SpacetimeIO
 
-Spacetime **I**nput **O**utput is set to become the standard [Spacetime**DB**](https://spacetimedb.com/) data importer & exporter - developed by the [Spacetime**DB** community](TODO).
+Spacetime **I**nput **O**utput is set to become the standard [Spacetime**DB**](https://spacetimedb.com/) data importer & exporter - developed by the [Spacetime**DB** community](https://discord.com/channels/1037340874172014652/1398331571651608666).
 
 > [!IMPORTANT]
 > This README doesn't contain the functionality which is currently implemented, it contains the vision.
