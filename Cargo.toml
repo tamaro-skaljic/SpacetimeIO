@@ -1,0 +1,20 @@
+[package]
+authors = ["Tamaro Skaljic<mail@tamaro-skaljic.de>"]
+name = "spacetimeio"
+version = "0.1.0"
+edition = "2024"
+description = "SpacetimeIO is set to become the standard SpacetimeDB data importer & exporter - developed by and for the SpacetimeDB community."
+documentation = "https://docs.rs/spacetimeio"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/tamaro-skaljic/SpacetimeIO"
+publish = true
+include = ["README.md", "/src/**"]
+keywords = ["spacetime", "cli", "backup", "restore", "import", "export"]
+readme = "README.md"
+
+[dependencies]
+# https://crates.io/crates/clap A simple to use, efficient, and full-featured Command Line Argument Parser
+clap = { version = "4.5.41" }
+
+# https://crates.io/crates/clap_complete Generate shell completion scripts for your clap::Command
+clap_complete = "4.5.55"
